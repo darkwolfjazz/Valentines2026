@@ -14,8 +14,6 @@ A beautiful, interactive Valentine's Day website template with parallax scrollin
 - **[Quick Start](QUICKSTART.md)** - Get running in 5 minutes
 - **[Deployment Guide](DEPLOYMENT.md)** - Deploy to Vercel
 - **[Pre-Launch Checklist](CHECKLIST.md)** - Before you share with your valentine
-- **[Contributing](CONTRIBUTING.md)** - How to contribute to this project
-- **[Changelog](CHANGELOG.md)** - Version history and updates
 
 ## ✨ Features
 
@@ -41,7 +39,39 @@ Once deployed, your website will feature:
 4. Fun mini-game to unlock the invitation
 5. Beautiful invitation card with interactive features
 
-## 🚀 Quick Start
+## � Screenshots
+
+### Desktop View
+<table>
+  <tr>
+    <td><img src="Screenshots/d1.png" alt="Hero Section" width="400"/><br/><b>Hero Section</b></td>
+    <td><img src="Screenshots/d2.png" alt="Time Counter" width="400"/><br/><b>Time Counter</b></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/d3.png" alt="Photo Timeline" width="400"/><br/><b>Photo Timeline</b></td>
+    <td><img src="Screenshots/d4.png" alt="Tulip Catcher Game" width="400"/><br/><b>Tulip Catcher Game</b></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/d5.png" alt="Game Victory" width="400"/><br/><b>Game Victory</b></td>
+    <td><img src="Screenshots/d6.png" alt="Invitation Card" width="400"/><br/><b>Invitation Card</b></td>
+  </tr>
+</table>
+
+### Mobile View
+<table>
+  <tr>
+    <td><img src="Screenshots/m1.jpg" alt="Mobile Hero" width="200"/><br/><b>Mobile Hero</b></td>
+    <td><img src="Screenshots/m2.jpg" alt="Mobile Counter" width="200"/><br/><b>Mobile Counter</b></td>
+    <td><img src="Screenshots/m3.jpg" alt="Mobile Timeline" width="200"/><br/><b>Mobile Timeline</b></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/m4.jpg" alt="Mobile Game" width="200"/><br/><b>Mobile Game</b></td>
+    <td><img src="Screenshots/m5.jpg" alt="Mobile Invitation" width="200"/><br/><b>Mobile Invitation</b></td>
+    <td></td>
+  </tr>
+</table>
+
+## �🚀 Quick Start
 
 ### Prerequisites
 
@@ -327,15 +357,6 @@ This website template is designed to be a heartfelt, personal gift. Take your ti
 
 MIT License - feel free to use this template for your personal romantic projects!
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- Report bugs
-- Suggest new features
-- Submit pull requests
-- Share your success stories
-
----
 
 Made with ❤️ for spreading love
 
