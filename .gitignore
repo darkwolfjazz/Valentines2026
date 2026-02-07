@@ -41,8 +41,6 @@ next-env.d.ts
 
 # Personal configuration (keep your personal info private!)
 # Remove this section if you want to track your config
-src/config/loveConfig.ts
-
 # Personal photos (keep your photos private!)
 # Remove this section if you want to track your photos
 public/photos/*.jpg
@@ -52,5 +50,5 @@ public/photos/*.gif
 public/photos/*.webp
 
 # Keep example files and READMEs
-!public/photos/README_PHOTOS.txt
-!public/photos/.gitkeep
+public/photos/README_PHOTOS.txt
+public/photos/.gitkeep
